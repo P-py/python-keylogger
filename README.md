@@ -3,6 +3,8 @@
 
 python-keylogger é um projeto simples e rápido montado com propósitos educacionais e científicos. De forma simplificada um keylogger registra todas as teclas pressionadas na máquina na qual está rodando, normalmente usado com propósitos maliciosos, __mas não é o caso deste aqui__, como dito anteriormente.
 
+![python-keylogger demo](https://i.imgur.com/wVQz2Lk.png)
+
 ## Instalação
 
 ### OS X & Linux:
